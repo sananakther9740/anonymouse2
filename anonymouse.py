@@ -1,8 +1,8 @@
-# coded by github.com/thelinuxchoice/anonymouse
+# coded by github.com/sananakther9740/anonymouse2
 import requests
 
 print("\nAnonymous Email by anonymouse.org")
-print("coded by github.com/thelinuxchoice\n")
+print("coded by github.com/sananakther9740\n")
 to = raw_input('to: ')
 subject = raw_input('subject: ')
 message = raw_input('message: ')
